@@ -1,0 +1,1 @@
+·       All the acceptance tests should be passed.
